@@ -1,0 +1,13 @@
+.welcome {
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .welcome {
+    padding: 1rem 1.5rem;
+  }
+}
+
+h1 {
+  color: #dd0031;
+}
